@@ -48,19 +48,141 @@ The course is graded pass/fail. A passing grade will be awarded to students who 
 Calendar
 --------
 
-| WEEK # | TOPICS |
-| --- | --- |
-| 1 | Introduction |
-| 2 | From Stem Cells to Blood |
-| 3 | Gene delivery vehicles engineered from viruses |
-| 4 | Treating genetic disorders by fixing the bad gene |
-| 5 | RNAi: Using an ancient defense against viral infection to turn off disease genes |
-| 6 | Future of personalized medicine using induced pluripotent stem (iPS) cells |
-| 7 | Field trip to the Whitehead Institute and to the Whitehead Flow Cytometry Facility |
-| {{< td-colspan 2 >}}**The journey of a 'wonder' drug, Gleevec**{{< /td-colspan >}} ||
-| 8 | Identification of bcr-abl translocation and its oncogenic properties |
-| 9 | Drug development for inhibiting kinase activity in the bcr-abl fusion |
-| 10 | Testing the efficacy of Gleevec in cell lines, mouse and human |
-| 11 | Evolving resistance to Gleevec |
-| 12 | Overcoming Gleevec resistance |
-| 13 | Use of Gleevec in other diseases
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+WEEK #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+Introduction
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+From Stem Cells to Blood
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+Gene delivery vehicles engineered from viruses
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+Treating genetic disorders by fixing the bad gene
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+RNAi: Using an ancient defense against viral infection to turn off disease genes
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+Future of personalized medicine using induced pluripotent stem (iPS) cells
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+Field trip to the Whitehead Institute and to the Whitehead Flow Cytometry Facility
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="2" >}}
+**The journey of a 'wonder' drug, Gleevec**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+Identification of bcr-abl translocation and its oncogenic properties
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+Drug development for inhibiting kinase activity in the bcr-abl fusion
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+Testing the efficacy of Gleevec in cell lines, mouse and human
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+Evolving resistance to Gleevec
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12
+{{< tdclose >}}
+{{< tdopen >}}
+Overcoming Gleevec resistance
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+13
+{{< tdclose >}}
+{{< tdopen >}}
+Use of Gleevec in other diseases
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
