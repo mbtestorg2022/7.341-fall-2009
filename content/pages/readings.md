@@ -407,7 +407,7 @@ Evolving resistance to Gleevec
 
 Paper 11a: A detailed and informative description of the structural interactions between Gleevec and the ABL protein using crystallographic studies, which provide significant insight into potential mechanisms of resistance.
 
-Schindler., T., W. Bornmann, P. Pellicena, W. Miller, B. Clarkson, and J. Kuriyan. "Structural Mechanism for STI-571 Inhibition of Abelson Tyrosine Kinase." _Science_ 289 (2000): 1938-1942. ([![This resource may not render correctly in a screen reader.](/images/inacessible.gif)PDF - 1.3MB](https://science.sciencemag.org/content/289/5486/1938))
+Schindler., T., W. Bornmann, P. Pellicena, W. Miller, B. Clarkson, and J. Kuriyan. "Structural Mechanism for STI-571 Inhibition of Abelson Tyrosine Kinase." _Science_ 289 (2000): 1938-1942. ([PDF - 1.3MB](https://science.sciencemag.org/content/289/5486/1938))
 
 
 {{< tdclose >}}
@@ -419,7 +419,7 @@ Schindler., T., W. Bornmann, P. Pellicena, W. Miller, B. Clarkson, and J. Kuriya
 
 Paper 11b: This study describes potential mechanisms of resistance in CML in patients bearing bcr-abl translocation.
 
-Gorre, M., M. Mohammed, K. Ellwood, M. Hsu, R. Paquette, P. Rao, and C. Sawyers. "Clinical Resistance to STI-571 Cancer Therapy Caused by bcr-abl Gene Mutation or Amplification." _Science_ 293 (2001): 876-880. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](https://science.sciencemag.org/content/289/5486/1938))
+Gorre, M., M. Mohammed, K. Ellwood, M. Hsu, R. Paquette, P. Rao, and C. Sawyers. "Clinical Resistance to STI-571 Cancer Therapy Caused by bcr-abl Gene Mutation or Amplification." _Science_ 293 (2001): 876-880. ([PDF](https://science.sciencemag.org/content/289/5486/1938))
 
 
 {{< tdclose >}}
